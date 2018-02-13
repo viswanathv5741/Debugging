@@ -1,0 +1,7 @@
+1: DebugMe1
+
+2: DebugMe2
+
+3: Correct the bug(s) in the Marker class. Perhaps you need to write a tester to use the Marker class.
+
+4: Find the bug in the Person class. Write a tester to use the Person class and detect the bug.
