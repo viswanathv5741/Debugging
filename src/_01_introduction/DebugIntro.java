@@ -27,5 +27,6 @@ public class DebugIntro {
 			x = new Random().nextInt();
 		}	
 		memVar1 = x;
+		System.out.println(x);
 	}
 }

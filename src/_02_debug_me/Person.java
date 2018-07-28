@@ -11,8 +11,8 @@ class Person
   // Constructor 
     public Person(String _name, int _age) 
     { 
-        String name = _name; 
-        int age = _age; 
+        name = _name; 
+        age = _age; 
     } 
 
   // Instance methods 
